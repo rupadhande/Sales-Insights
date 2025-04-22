@@ -1,5 +1,7 @@
 # Sales Insights Dashboard  
 
+![Dashboard Preview(https://github.com/rupadhande/Sales-Insights/blob/main/sales%20insights.jpg)
+
 ## 🔍 Overview  
 This **Power BI dashboard** provides a detailed analysis of **customer performance, product profitability, regional insights, and unit economics**. It highlights key metrics, trends, and actionable insights for business optimization.
 
